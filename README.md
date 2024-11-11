@@ -14,4 +14,4 @@ These advanced analytics tools have the potential to be game-changers for law en
 Highly accurate predictions of homicide characteristics
 User-friendly interface for easy integration with existing systems
 Time-saving efficiencies that free up investigators to focus on other tasks
-Improved outcomes for victims' families and the community at large
+Improved outcomes for victims' families and the community at large.
